@@ -1,2 +1,2 @@
 # Navbar-CSS-Html
- Basic NavBar
+ Basic NavBar (Flex box)
